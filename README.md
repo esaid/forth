@@ -1,5 +1,5 @@
 # forth
-new definition .s
+new definition .s  file /  s.forth
 
 <p>1</p>
 <p>2</p>
