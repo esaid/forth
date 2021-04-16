@@ -1,0 +1,2 @@
+# forth
+new definition .s
