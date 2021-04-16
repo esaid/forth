@@ -14,3 +14,8 @@
   ;
   
   
+\ another solution  more compact
+: .s
+      
+  depth 0  ?DO    i pick  cr ." | " . ." |" dup drop   LOOP  ;
+  
