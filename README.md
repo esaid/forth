@@ -13,9 +13,8 @@ dup
  
  Affichage Pile S : 
 
-| 4 |
-| 4 |
-| 3 |
-| 2 |
-| 1 |
-redefined .s 
+<p>| 4 |</p>
+<p>| 3 |</p>
+<p>| 2 |</p>
+<p>| 1 |</p>
+
