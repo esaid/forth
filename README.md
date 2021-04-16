@@ -1,15 +1,15 @@
 # forth
 new definition .s
 
-1
-2
-3
-4
+<p>1</p>
+<p>2</p>
+<p>3</p>
+<p>4</p>
 
 dup
 
 
- .s
+<h1>.s</h1> 
  
  Affichage Pile S : 
 
