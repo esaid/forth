@@ -9,7 +9,7 @@ new definition .s  file /  s.forth
 dup
 
 
-<h1>.s</h1> 
+<h3>.s</h3> 
  
  Affichage Pile S : 
 
