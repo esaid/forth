@@ -11,11 +11,12 @@
   nbElementPile 0
   ?DO    i pick readPile dup drop 
   LOOP
+  cr
   ;
   
   
 \ another solution  more compact
 : .s
       
-  depth 0  ?DO    i pick  cr ." | " . ." |" dup drop   LOOP  ;
+  depth 0  ?DO    i pick  cr ." | " . ." |" dup drop   LOOP cr  ;
   
