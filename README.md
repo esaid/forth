@@ -24,15 +24,20 @@ dup
 
 # forth if  else then  simplification
 : mot 0 = if ." action1" else ." action2" then ."   puis action3" ;
-0 mot action1  puis action3 ok                                     
+<p></p>
+0 mot action1  puis action3 ok 
+<p></p>
 1 mot action2  puis action3 ok
+<p></p>
 
 
-
-simplification , plus de ELSE , on utilise exit  et une autre definition sous-mot
+simplification , plus de ELSE , on utilise exit  et une autre definition sous-mot 
+<p></p>
 
 : sous-mot 0 = if ." action1" exit then ."  action2" ;
+<p></p>
 : mot sous-mot ."   puis action3" ;
+
 
 
 
